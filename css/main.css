@@ -1265,7 +1265,7 @@ footer .footer-line {
         width: 3.2rem;
         height: 3.2rem;
         left: auto;
-        right: -6%;
+        right: -6.5%;
         top: 35%;
     }
     .s4 .swiper .swiper-button-next::after {
@@ -1315,7 +1315,7 @@ footer .footer-line {
         width: 91%;
     }
     .s5 .center-box .player-list ul li:last-child .area2 .player-info .aff-club .info-text p:nth-child(even) {
-        font-size: 24px;
+        font-size: 20px;
     }
 
 
