@@ -1134,14 +1134,15 @@ footer .footer-line {
     }
     .s1 .video-txt{
         width: 30rem;
-        margin-left: 3.2rem;
+        margin-left: 5rem;
     }
     .s1 .video-txt h1 {
         font-size: 3rem;
-        -webkit-text-stroke: 2px #37003c;
+        -webkit-text-stroke: 0;
     }
     .s1 .video-txt h2 {
-        font-size: 0.9rem;
+        font-size: 0.8rem;
+        margin-left: 3rem;
     }
 
 
@@ -1214,7 +1215,7 @@ footer .footer-line {
         font-size: 1.3rem;
     }
     .s3 .center-box2 > p {
-        font-size: 1.7rem;
+        font-size: 1.5rem;
     }
     .s3 .banner ul {
         display: flex;
@@ -1253,7 +1254,7 @@ footer .footer-line {
     .s4 .swiper .swiper-button-prev {
         width: 3.2rem;
         height: 3.2rem;
-        left: 5%;
+        left: 6%;
         top: 34%;
     }
     .s4 .swiper .swiper-button-prev::after {
